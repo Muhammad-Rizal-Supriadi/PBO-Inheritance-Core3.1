@@ -1,0 +1,13 @@
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csprojAssemblyReference.cache
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
+D:\KULIAH\SEMESTER 3\PBO\Dotnet\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.genruntimeconfig.cache
